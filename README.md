@@ -1,2 +1,2 @@
 # Aurora
-Pegar informações de um usuário ao entrar no site.
+Pegando as informações dos usuários que acessam a página através do IP 
